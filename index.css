@@ -1,9 +1,7 @@
 body, html {
     margin: 0;
-    padding: 0;
     background-color: #F2D4A8;
     font-family: Verdana, sans-serif;
-    min-height: 800px;
 }
 h1 {
     font-size: 36px;
